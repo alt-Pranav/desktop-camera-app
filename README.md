@@ -1,16 +1,17 @@
-# ml_kit_app
+# Desktop Camera App
 
-A new Flutter project.
+This is a camera app created for Windows desktop in particular using Flutter.
+It uses camera plugin to perform the following:
+<ul>
+  <li>Detect cameras available on device.</li>
+  <li>Create and dispose of a camera preview.</li>
+  <li>Take pictures.</li>
+  <li>Take videos (timed and not timed).</li>
+  <li>Enable/Disable audio for recordings.</li>
+</ul>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Things to add:
+<ul>
+  <li>Face Detection in image.</li>
+  <li>Text Detection in image.</li>
+</ul>
